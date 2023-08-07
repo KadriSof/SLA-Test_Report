@@ -50,9 +50,9 @@
 **Pass/Fail Criteria**:
 The test case passes if the user successfully retrieves a correct search result.
 
-**Severity:** High 
-**Priority:** High
-**Status:** **Passed**
+**Severity:** High<br>
+**Priority:** High<br>
+**Status:** **Passed**<br>
 
 **Notes**: *(fill in with any additional information or comments related to the test case)*
 
