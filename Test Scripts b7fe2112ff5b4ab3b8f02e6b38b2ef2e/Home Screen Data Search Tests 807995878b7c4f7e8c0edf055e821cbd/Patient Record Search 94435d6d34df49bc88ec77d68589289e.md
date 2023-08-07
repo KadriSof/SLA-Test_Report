@@ -1,7 +1,7 @@
 # Patient Record Search
 
-**Test Case ID:** TC003
-**Test Case Title:** Search for a patient record in the software’s database.
+**Test Case ID:** TC003<br>
+**Test Case Title:** Search for a patient record in the software’s database.<br>
 **Test Objective:** To verify that a user can successfully search an existing patient record using the “**Search Patient**” feature tools.
 
 ---
@@ -49,9 +49,9 @@
 **Pass/Fail Criteria**:
 The test case passes if the user successfully retrieves a correct search result.
 
-**Severity:** High 
-**Priority:** High
-**Status:** **Passed**
+**Severity:** High<br>
+**Priority:** High<br>
+**Status:** **Passed**<br>
 
 **Notes**: *(fill in with any additional information or comments related to the test case)*
 
