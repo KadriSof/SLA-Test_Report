@@ -1,7 +1,7 @@
 # Sample Record Search
 
-**Test Case ID:** TC001
-**Test Case Title:** Search for a sample record in the software’s database.
+**Test Case ID:** TC001<br>
+**Test Case Title:** Search for a sample record in the software’s database.<br>
 **Test Objective:** To verify that a user can successfully search an existing sample record using the “**Search Sample**” feature tools.
 
 ---
