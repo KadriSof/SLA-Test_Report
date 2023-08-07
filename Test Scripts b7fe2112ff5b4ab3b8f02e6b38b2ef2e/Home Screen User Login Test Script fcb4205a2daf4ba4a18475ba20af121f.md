@@ -48,8 +48,9 @@ The test case passes if the user successfully logs in and reaches the home scree
 
 **Severity:** High *(High/Medium/Low)*  
 
-**Priority:** High *(High/Medium/Low)*
-**Status:** Not Tested *(Passed/Failed)*
+**Priority:** High *(High/Medium/Low)*  
+
+**Status:** Not Tested *(Passed/Failed)*  
 
 **Notes**: *(fill in with any additional information or comments related to the test case)*
 
