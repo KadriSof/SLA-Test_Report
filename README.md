@@ -2,7 +2,7 @@
 
 # Introduction:
 
-**What is Software Testing?**
+**What is Software Testing?**<br>
 Software testing is a crucial process in the software development life cycle (SDLC) that aims to identify defects, errors, or issues in a software application. The goal of testing is to ensure that the software meets the specified requirements, works as expected, and delivers a quality experience to end users.
 
 **Importance of Software Testing:**
